@@ -1,0 +1,15 @@
+body{
+     margin: 30px;
+}
+
+h1 {
+    color: blue;
+    text-align: justify;
+
+}
+p{
+    font-size: larger;
+}
+.one{
+    color: chartreuse;
+}
